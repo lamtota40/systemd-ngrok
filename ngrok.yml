@@ -1,5 +1,6 @@
 version: "2"
 authtoken: <add_your_token_here>
+region: "us"
 tunnels:
     web:
         proto: http
